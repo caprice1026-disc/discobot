@@ -19,3 +19,4 @@ async def promotion(ctx,prm,…):
 
 
 #これを参考にしろ！https://zenn.dev/yuzmidori/articles/7a60b24f1ace4f
+#エクステンションの方を使って書いてくれ　確実に楽だから　pyのdocsとごっちゃになりやすいので注意　https://discordpy.readthedocs.io/ja/latest/ext/commands/index.html
