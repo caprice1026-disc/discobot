@@ -21,3 +21,12 @@ https://discordpy.readthedocs.io/ja/latest/api.html?highlight=target#channels
 
 discord.py docs
 https://discordpy.readthedocs.io/ja/latest/index.html
+
+2/12 extを使うのを辞めようね　分からないこと多くなるので
+https://qiita.com/tags/discord.py
+
+ツリーコマンド
+https://qiita.com/Azusa220/items/c4e09a82cf5225e61c9a
+
+check
+https://qiita.com/halglobe0108/items/19a0e36a80bed54bfb51
