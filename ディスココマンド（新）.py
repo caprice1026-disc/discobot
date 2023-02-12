@@ -23,10 +23,12 @@ def is_creator(ctx):
         return ctx.role.roleID > role.roleID
     return commands.check(predicate)
 
+
 @bot.command()
 @commands.check(is_creator)
 async def promotion(ctx, *, arg):
-  await.send(message.content)
+  target_channel = get(message.guild.channels, name='転送先のチャンネル名')
+  await target_channel.send(ctx.content)
 
  
 #こっから先を最適化target_channel = get(message.guild.channels, name='転送先のチャンネル名')
